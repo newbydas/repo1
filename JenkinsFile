@@ -1,0 +1,7 @@
+@Library('IAC_Library') _
+env.APPLICATION_NAME = "iac_appname"
+env.MICROSERVICE_NAME = "iac_msname"
+env.EMAIL = "newbydas754.457@gmail.com"
+env.SCM_URL = "repo1"
+env.BRANCH = "repo1"
+Template()
